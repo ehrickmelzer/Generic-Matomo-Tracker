@@ -6,9 +6,9 @@ Matomo_Parameters:
   #Repository Base Url
   repository_base_url: "https://repository.com"
   #Matomo Repository Site ID
-  idSite: 1
+  idSite: 314
   #Matomo authenticastion token
-  token_auth: "12345"
+  token_auth: "32846584f571be9b57488bf4088f30ea"
   #matomo parameters (default values)
   delay_after_failure: 10
   default_max_attempts: 3
